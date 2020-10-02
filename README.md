@@ -1,12 +1,12 @@
 # Crime Visualization Project
-## Based  on [Crime in India - Volume 1 (NCRB)](https://ncrb.gov.in/en/crime-india-2019-0#) 
-### Exact PDF : [CII 2019 Volume1](https://ncrb.gov.in/sites/default/files/CII%202019%20Volume%201.pdf)
+## Based  on [Crime in India - Volume 1 (NCRB)](https://ncrb.gov.in/en/crime-india-2019-0#){:target="_blank"} 
+### Exact PDF : [CII 2019 Volume1](https://ncrb.gov.in/sites/default/files/CII%202019%20Volume%201.pdf){:target="_blank"}
 ### You can check out the website at : #
 #### This Project Contains :
-- Raw Data Files (Both .pdf and .csv files) [Data is extracted from pdf in range of pages : 34-37]
+- Raw Data Files (Both .pdf and .csv files) [Data is extracted from PDF in the range of pages : 34-37]
 - SVG-Files
 - Web Assets for the [Website]()
-- Generate SVG python script to generate svg files. (also included .ipynb jupyter notebook)
+- Generate SVG python script to generate svg files. (also included .ipynb file for Jupyter Notebook)
 
 ![Sample Pie Chart](Images/screenrecord.gif)
 
@@ -36,3 +36,4 @@ $ python3 "Generate SVG.py"
 ![Screenshot-1](Images/1.png)
 ![Screenshot-2](Images/2.png)
 ![Screenshot-3](Images/3.png)
+
