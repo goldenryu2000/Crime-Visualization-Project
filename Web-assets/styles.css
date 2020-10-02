@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+.nav-bg{
+    background-color: black;
+}
+.n-text{
+  color:#ffac41;  
+}
+.main-img{
+    margin-top: 50px;
+}
+
+
+.home-images{
+    opacity: 0.6;
+    height: 200px;
+    width:  200px;
+    margin-bottom: 10px;
+    border-radius: 20%;
+    border-style: groove;
+    border-color: white !important;
+    position: relative;
+}
+.home-images:hover{
+    opacity: 1;
+    transform: perspective(9cm);    
+}
