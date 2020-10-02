@@ -7,7 +7,7 @@
 - Raw Data Files (Both .pdf and .csv files) [Data is extracted from PDF in the range of pages : 34-37]
 - SVG-Files
 - Web Assets for the [Website](https://goldenryu2000.github.io/Crime-Visualization-Project/)
-- Generate SVG python script to generate svg files. (also included .ipynb file for Jupyter Notebook)
+- Python Scripts to generate Line Charts and Pie Charts of Data (.svg format). (Jupyter Notebook .ipynb files also included).
 
 ![Sample Pie Chart](Images/screenrecord.gif)
 
@@ -22,13 +22,15 @@ $ pip install -r requirements.txt
 ```sh
 $ pip3 install -r requirements.txt
 ```
-- Now you can run the "Generate SVG .py" script either as a program or using commands : 
+- Now you can run the two Python scripts to generate .svg files either as a program or using commands : 
 ```sh
-$ python "Generate SVG.py"
+$ python "Pie-Chart-SVG.py"
+$ python "Line-Chart-SVG.py"
 ```
 ### Or
 ```sh
-$ python3 "Generate SVG.py"
+$ python3 "Pie-Chart-SVG.py"
+$ python3 "Line-Chart-SVG.py"
 ```
 
 # Some Screenshots: 

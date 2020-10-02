@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[ ]:
 
 
 import pandas as pd
@@ -9,7 +9,7 @@ import pygal
 from pygal.style import DarkStyle
 
 
-# In[34]:
+# In[ ]:
 
 
 l = ['Offences Relating to Documents & Property Marks' , 'Miscellaneous IPC Crimes' , 
@@ -17,7 +17,7 @@ l = ['Offences Relating to Documents & Property Marks' , 'Miscellaneous IPC Crim
     'Offences against Public Tranquillity','Offences against the State']
 
 
-# In[37]:
+# In[ ]:
 
 
 for i in l: 
@@ -48,10 +48,4 @@ for i in l:
         bar_chart.add(ch[m],c)
     bar_chart.render_to_file('svg-files/{}/{}-2019.svg'.format(i,i))
     print("created svg for {}".format(i))
-
-
-# In[ ]:
-
-
-
 
