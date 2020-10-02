@@ -1,28 +1,47 @@
 body{
-    background-color: black;
+background-color: black;    
+align-items: baseline;
 }
 .nav-bg{
     background-color: black;
 }
 .n-text{
   color:#ffac41;  
+  size: 200px;
+  display: flex;
 }
+.n-text:hover{
+    color: chocolate;
+}
+a:hover{
+    text-decoration: none;
+}
+
+.imge{
+    margin: 100px auto;
+}
+
+
 .main-img{
     margin-top: 50px;
-}
-
-
-.home-images{
-    opacity: 0.6;
-    height: 200px;
-    width:  200px;
     margin-bottom: 10px;
+}
+.home-images{
+    opacity: 0.2;
+    height: 110%;
+    width: 130%;
     border-radius: 20%;
     border-style: groove;
     border-color: white !important;
-    position: relative;
 }
 .home-images:hover{
     opacity: 1;
-    transform: perspective(9cm);    
+}
+.main{
+    margin: auto;
+}
+.bottom{
+    width: 60%;
+    margin: auto;
+    padding-left: 20%;
 }
