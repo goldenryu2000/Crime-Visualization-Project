@@ -37,3 +37,6 @@ $ python3 "Generate SVG.py"
 ![Screenshot-2](Images/2.png)
 ![Screenshot-3](Images/3.png)
 
+
+
+[![visits](https://github-visit-counter.herokuapp.com/goldenryu2000/Crime-Visualization-Project/visits.svg)](#)
