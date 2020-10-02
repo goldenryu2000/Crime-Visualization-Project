@@ -2,6 +2,13 @@ body{
 background-color: black;    
 align-items: baseline;
 }
+h2{
+    color:#ffac41; 
+    text-decoration: underline;
+}
+h3{
+    color:#ffac41; 
+}
 .nav{
     text-align: center;
     width: 50%;
