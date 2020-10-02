@@ -2,6 +2,11 @@ body{
 background-color: black;    
 align-items: baseline;
 }
+.nav{
+    text-align: center;
+    width: 50%;
+    height: 100%;
+}
 .nav-bg{
     background-color: black;
 }
@@ -11,7 +16,7 @@ align-items: baseline;
   display: flex;
 }
 .n-text:hover{
-    color: chocolate;
+    color: #ffac41;
 }
 a:hover{
     text-decoration: none;
