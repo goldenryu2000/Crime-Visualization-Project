@@ -1,4 +1,4 @@
-# Crime Data Visualization Project
+# Crime Visualization Project
 ## Based  on [Crime in India - Volume 1 (NCRB)](https://ncrb.gov.in/en/crime-india-2019-0#) 
 ### Exact PDF : [CII 2019 Volume1](https://ncrb.gov.in/sites/default/files/CII%202019%20Volume%201.pdf)
 ### You can check out the website at : [Crime Data Visualization Project](https://goldenryu2000.github.io/Crime-Visualization-Project/)
